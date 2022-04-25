@@ -11,7 +11,7 @@
             	     <th>Nama Siswa</th>                     
             	     <th>:</th>                     
             	     <td>                         
-            		    <input type="text" name="nama" id="nama" size="22">                     
+            		    <input type="text" name="namasiswa" id="namasiswa" size="22">                     
             	     </td>                 
                   </tr>                 
                   <tr>                     
@@ -45,7 +45,7 @@
             	     <th>Tanggal Lahir</th>                     
             	     <td>:</td>                     
             	     <td>                         
-            		    <input type="text" name="Tanggal" id="Tanggal" size="22">                     
+            		    <input type="text" name="tanggal" id="tanggal" size="22">                     
             	     </td>                 
                   </tr>
                   <tr>                     

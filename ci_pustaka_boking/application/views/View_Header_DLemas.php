@@ -3,7 +3,7 @@
 <head>     
 	<meta charset="utf-8">     
 	<title><?php echo $judul ?></title>     
-	<link rel="stylesheet" type="text/css" href="<?php echo base_url()?>assets/css/StyleDLemas.css"> 
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url()?>assets/css/styledlemas.css"> 
 </head> 
 <body>     
 	<div id="wrapper">         

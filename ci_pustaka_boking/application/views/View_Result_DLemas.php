@@ -11,7 +11,7 @@
 				<th>Nama Siswa</th>                 
 				<th>:</th>                 
 				<td>                     
-					<?= $nama; ?>                 
+					<?= $namasiswa; ?>                 
 				</td>             
 			</tr>             
 			<tr>                 
